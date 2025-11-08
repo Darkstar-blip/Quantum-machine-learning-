@@ -1,0 +1,9 @@
+{
+  "best_acc": 0.52,
+  "best_cfg": {
+    "C": 0.1,
+    "gamma": "scale",
+    "reps": 2,
+    "shots": 1000
+  }
+}
